@@ -1,4 +1,4 @@
-[![noranekoit -Identifikasi-burung-dengan-gambar](https://img.shields.io/static/v1?label=noranekoit&message=Identifikasi-burung-dengan-gambar&color=blue&logo=github)](https://github.com/noranekoit/Learn-Android-Jetpack-Pro "Go to GitHub repo")
+[![noranekoit -Identifikasi-burung-dengan-gambar](https://img.shields.io/static/v1?label=noranekoit&message=Identifikasi-burung-dengan-gambar&color=blue&logo=github)](https://github.com/noranekoit/Identifikasi-burung-dengan-gambar "Go to GitHub repo")
 
 - Referensi buku Python Artificial Intellegence Project for beginners dari packt.com
 - Repostory ini untuk memenuhi syarat penilaian UAS mata kuliah AI 
