@@ -2,6 +2,7 @@
 
 - Referensi buku Python Artificial Intellegence Project for beginners dari packt.com
 - Repostory ini untuk memenuhi syarat penilaian UAS mata kuliah AI 
+- dataset dari kaggle [klik Bird Species Classification 200 Categories] (https://www.kaggle.com/kedarsai/bird-species-classification-220-categories)
 
 [Klik Ini](https://colab.research.google.com/drive/1CJocW3kJ0pp6YKxPY7Zu5YdUTsf-IpJv?usp=sharing) Link google colab yang mau kepoin :v
 
