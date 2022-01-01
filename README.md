@@ -13,7 +13,7 @@ ARIGATOU GOZAIMASU !! BANZAI
 
 ## Cara menjalankan 
  - Buka link colab diatas
- - Masukkan kaggle.json mu ke dalam directory 'content'
+ - Masukkan kaggle.json mu ke dalam directory 'content' , kalau belum ada akun kaggle buat dulu baru generate api terus donwload Kaggle.json nya
  - Untuk test prediksi bebas mau pake gambar apa atau pake gambar sample dibawah ini 
 ## Contoh Keluaran : 
 
