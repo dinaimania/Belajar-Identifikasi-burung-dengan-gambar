@@ -7,10 +7,11 @@ Yang perlu kamu tau, gk tau juga gk papa si :v
 
 [Klik Ini](https://colab.research.google.com/drive/1CJocW3kJ0pp6YKxPY7Zu5YdUTsf-IpJv?usp=sharing) Link google colab yang mau kepoin :v
 
-Contoh Keluaran : 
-
-
-
 by [@noranekoit](https://github.com/noranekoit) 
 ARIGATOU GOZAIMASU !! BANZAI 
+
+Contoh Keluaran : 
+
+![ss hasil](https://user-images.githubusercontent.com/58914195/147845155-a91f6b27-2820-42c7-a8cf-5116a65f5f64.png)
+
  
