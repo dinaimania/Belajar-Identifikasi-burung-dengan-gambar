@@ -16,8 +16,7 @@ ARIGATOU GOZAIMASU !! BANZAI
  - Masukkan kaggle.json mu ke dalam directory 'content' , kalau belum ada akun kaggle buat dulu baru generate api terus donwload Kaggle.json nya
  - Untuk test prediksi bebas mau pake gambar apa atau pake gambar sample dibawah ini 
 ## Contoh Keluaran : 
-
-![ss hasil](https://user-images.githubusercontent.com/58914195/147845155-a91f6b27-2820-42c7-a8cf-5116a65f5f64.png)
+![image](https://user-images.githubusercontent.com/58914195/149059299-c31d81f0-3e77-44b0-a419-98aa8db79bfb.png)
 
 ## Contoh gambar sample : klik kanan terus save as image untuk donwload
 ![canada_goose_1](https://user-images.githubusercontent.com/58914195/147845202-b9271c92-07da-4d89-809f-a3fb96284eb3.JPG)
