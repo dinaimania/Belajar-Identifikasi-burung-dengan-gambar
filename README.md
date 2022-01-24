@@ -1,4 +1,4 @@
-[![noranekoit -Identifikasi-burung-dengan-gambar](https://img.shields.io/static/v1?label=noranekoit&message=Identifikasi-burung-dengan-gambar&color=blue&logo=github)](https://github.com/noranekoit/Identifikasi-burung-dengan-gambar "Go to GitHub repo")
+[![noranekoit -Belajar-Identifikasi-burung-dengan-gambar](https://img.shields.io/static/v1?label=noranekoit&message=Belajar-Identifikasi-burung-dengan-gambar&color=blue&logo=github)](https://github.com/noranekoit/Belajar-Identifikasi-burung-dengan-gambar "Go to GitHub repo")
 
 ## Yang perlu kamu tau, gk tau juga gk papa si :v
 - Referensi buku Python Artificial Intellegence Project for beginners dari packt.com
